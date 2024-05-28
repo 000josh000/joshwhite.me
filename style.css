@@ -17,6 +17,7 @@ body {
 	background:  var(--body-background);
 	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
 	line-height: 1.4;
+	margin-top:  10%
 	margin:      20%;
 }
 
