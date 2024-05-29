@@ -292,6 +292,10 @@ pre {
 	color: #e36209;
 }
 
+.fit-picture {
+  width: 250px;
+}
+
 @keyframes highfade {
 	0% {
 		background-color: none;
