@@ -293,8 +293,10 @@ pre {
 }
 
 .fit-picture {
-  width: 125px;
+  width: 250px;
 }
+
+/* width for circle was 125 */
 
 @keyframes highfade {
 	0% {
