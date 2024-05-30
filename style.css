@@ -293,10 +293,10 @@ pre {
 }
 
 .fit-picture {
-  width: 125px;
+  width: 300px;
 }
 
-/* width for circle was 125, the peacock 450 */
+/* width for circle was 125, the peacock 450, bklyn 300 */
 
 @keyframes highfade {
 	0% {
